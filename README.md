@@ -16,3 +16,4 @@ This AI Storyteller reads stories from PDFs, summarizes them, and narrates them 
    cd ai_storyteller
 
 download llma2 .gguf trained model from hugging face and copy into models/llm/downloaded_model.gguf
+2. Create a virual env (venv) and run this
