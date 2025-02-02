@@ -12,5 +12,7 @@ This AI Storyteller reads stories from PDFs, summarizes them, and narrates them 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ai_storyteller.git
+   git clone https://github.com/balashankar0508/storry_teller_ai.git
    cd ai_storyteller
+
+download llma2 .gguf trained model from hugging face and copy into models/llm/downloaded_model.gguf
