@@ -1,0 +1,6 @@
+torch
+transformers
+llama-cpp-python
+PyPDF2
+TTS
+sentencepiece
